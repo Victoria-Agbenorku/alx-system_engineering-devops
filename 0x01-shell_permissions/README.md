@@ -68,8 +68,8 @@
 
 
 
-100-Star_Wars - Write a script that will play the StarWars IV episode in the terminal.
+17-Star_Wars - Write a script that will play the StarWars IV episode in the terminal.
 
 
 
-101-man_holberton - Create a man that looks exactly like this one and passes all checks.
+
