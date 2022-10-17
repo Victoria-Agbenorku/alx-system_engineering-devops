@@ -1,0 +1,2 @@
+#!/bin/bash
+Degrep -c 'bin' /etc/passwd
