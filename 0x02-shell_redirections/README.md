@@ -2,7 +2,7 @@
 
 
 
-1-confused_smiley - Write a script that displays a confused smiley "(Ôo)'.
+[1-confused_smiley](https://github.com/Victoria-Agbenorku/alx-system_engineering-devops/blob/master/0x02-shell_redirections/1-confused_smiley) - Write a script that displays a confused smiley "(Ôo)'.
 
 
 
