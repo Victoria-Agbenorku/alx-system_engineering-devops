@@ -1,2 +1,2 @@
 #!/bin/bash
-at -f 1,6 -d ':' /etc/passwd | sort
+Cat -f 1,6 -d ':' /etc/passwd | sort
